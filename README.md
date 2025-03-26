@@ -95,7 +95,7 @@ model Task {
 ## Submission Guidelines
 1. Complete the project within **4 days**.
 2. Push the code to a **public repository** on **GitHub**.
-3. Submit the repository link via the given **Google Form**.
+3. Submit the repository link via the given **[Google Form](https://forms.gle/rEBqUJKkNQcq3Q6TA)**. 
 
 ## Helpful Resources
 - [Node.js Documentation](https://nodejs.org/en/docs/)
