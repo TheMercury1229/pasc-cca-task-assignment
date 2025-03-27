@@ -93,7 +93,7 @@ model Task {
 ```
 
 ## Submission Guidelines
-1. Complete the project within **4 days**.
+1. Complete the assignment by **2nd April 2025**.
 2. Push the code to a **public repository** on **GitHub**.
 3. Submit the repository link via the given **[Google Form](https://forms.gle/rEBqUJKkNQcq3Q6TA)**. 
 
