@@ -1,6 +1,6 @@
 import { PrismaClient } from "@prisma/client";
 
-const prisma = new PrismaClient();
+const db = new PrismaClient();
 
 process.on("SIGINT", async () => {
   await prisma.$disconnect();
@@ -8,4 +8,4 @@ process.on("SIGINT", async () => {
   process.exit(0);
 });
 
-export default prisma;
+export default db;
